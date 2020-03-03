@@ -1,1 +1,7 @@
-telly:电视机/tale:故事,传说
+﻿telly:电视机/tale:故事,传说/tile:瓦
+pound:英镑,连续重击
+pin:针/sin:罪
+access:访问/assess:评估/accuse:指控
+sand:沙/soil:土壤/solid:固体
+chap:小伙/chop:砍
+require:要求/inquire:询问/acquire:获得
